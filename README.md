@@ -18,3 +18,4 @@ This program can only be accessed on a computer with Git and Atom software globa
 Clone this repository
 Navigate to repository file in Terminal
 Type the following into the Command Line to open the program in the default browser: "Open index.html"
+
